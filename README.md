@@ -9,6 +9,8 @@ Este proyecto fue desarrollado principalmente con `Laravel` con el fin de crear 
 Actualmente, este proceso resulta ineficiente ya que se debe de llevar a cabo presencialmente, en consecuencia, este proyecto es una propuesta para la mejora de este proceso, tanto para los estudiantes como el personal administrativo.
 Llevando a cabo la recepción y revisión de documentos de manera online, sin necesidad de presentarse físicamente.
 
+Ver [Demo](https://demo-vinculacion.infinityfreeapp.com/proyecto_vinculacion/public/auth/login)
+
 ## Stack
 
   - [Laravel (v8)](https://laravel.com/docs/8.x)
