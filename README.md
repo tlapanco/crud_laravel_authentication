@@ -11,17 +11,9 @@ Llevando a cabo la recepción y revisión de documentos de manera online, sin ne
 
 Ver [Demo](https://demo-vinculacion.infinityfreeapp.com/proyecto_vinculacion/public/auth/login)
 
-## Stack
-
-  - [Laravel (v8)](https://laravel.com/docs/8.x)
-  - [MySQL](https://www.mysql.com/)
-  - [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-  - [JQuery](https://jquery.com/)
-
-
 ## Capturas
 
-<details>
+<details open>
   <summary>Desktop</summary>
   
   - Log In
@@ -78,6 +70,13 @@ Ver [Demo](https://demo-vinculacion.infinityfreeapp.com/proyecto_vinculacion/pub
 
 
 </details>
+
+## Stack
+
+  - [Laravel (v8)](https://laravel.com/docs/8.x)
+  - [MySQL](https://www.mysql.com/)
+  - [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+  - [JQuery](https://jquery.com/)
 
 
 ## Nota
