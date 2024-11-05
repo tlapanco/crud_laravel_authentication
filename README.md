@@ -83,4 +83,4 @@ Ver [Demo](https://demo-vinculacion.infinityfreeapp.com/proyecto_vinculacion/pub
 
 Este proyecto fue desarrollado durante mi estadía en la universidad con fines didacticos para el crecimiento profesional de mi carrea. 
 La información usada en la demo (usuarios, empresas, profesores, asesores, etc) no se relaciona con la realidad, son solo ficticios.
-Además de las imágenes y demás recursos gráficos son propiedad de la UPMP. <a href="http://metropoli.edu.mx/" target="blank"> <img src="https://lh5.googleusercontent.com/proxy/my6JbgZXi4d7vBcspZlzyaIKFvj2ybJZG2fyafn7IkZdKpLVo12jK_BVz8UJ6NAwreyuJuueXM_FTejkIMTFznJwaACDv4xMELpfP3qlw9OKEzjn" width="30px" height="auto"> </a>
+Imágenes y demás recursos gráficos son propiedad de la UPMP. <a href="http://metropoli.edu.mx/" target="blank"> <img src="https://lh5.googleusercontent.com/proxy/my6JbgZXi4d7vBcspZlzyaIKFvj2ybJZG2fyafn7IkZdKpLVo12jK_BVz8UJ6NAwreyuJuueXM_FTejkIMTFznJwaACDv4xMELpfP3qlw9OKEzjn" width="30px" height="auto"> </a>
